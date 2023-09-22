@@ -1,4 +1,4 @@
-# Bellek Oyunu Uygulaması
+# Pokemon Memory Game
 
 Bu bellek oyunu uygulaması, hafıza ve dikkatinizi test etmek için eğlenceli bir yol sunar. Oyunun amacı, eşleşen kartları bulmak ve tüm kartları eşleştirmek için hafızanızı kullanmaktır.
 
