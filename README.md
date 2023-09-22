@@ -2,6 +2,8 @@
 
 Bu bellek oyunu uygulaması, hafıza ve dikkatinizi test etmek için eğlenceli bir yol sunar. Oyunun amacı, eşleşen kartları bulmak ve tüm kartları eşleştirmek için hafızanızı kullanmaktır.
 
+## Demo - [pokemon-game](https://pokemon-gamee.netlify.app/)
+
 ## Özellikler
 
 - Görsel olarak çekici ve kullanıcı dostu bir arayüz.
